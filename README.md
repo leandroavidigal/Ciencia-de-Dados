@@ -15,37 +15,37 @@ Estou organizando os projetos ao repositório para facilitar a consulta e contri
 
 ### 1️⃣ **Análise e Tratamento de Dados**
 📍 **Objetivo:** Processamento e limpeza de grandes volumes de dados para aplicações de Machine Learning.
-- 🔹 **Manipulação Avançada com Pandas** - Estratégias para tratamento de dados ausentes e outliers.
-- 🔹 **Análise e Transformação de Dados com Pandas e NumPy** -  Projetos com diferentes abordagens para manipulação, transformação e análise de dados usando Pandas, NumPy e APIs
-        - Análise e Transformação de Dados com Pandas e NumPy
-        - Análise de Dados de Vestibular e Vacinação com Pandas
-        - Análise de Solicitações de PVL via API do Tesouro Nacional
+- **Manipulação Avançada com Pandas** - Estratégias para tratamento de dados ausentes e outliers.
+- **Análise e Transformação de Dados com Pandas e NumPy** -  Projetos com diferentes abordagens para manipulação, transformação e análise de dados usando Pandas, NumPy e APIs
+         > Análise e Transformação de Dados com Pandas e NumPy
+          > Análise de Dados de Vestibular e Vacinação com Pandas
+          > Análise de Solicitações de PVL via API do Tesouro Nacional
 
 ### 2️⃣ **Modelagem Preditiva e Machine Learning**
 📍 **Objetivo:** Construção de modelos robustos para classificação e regressão.
-- 🔹 **Árvores de Decisão e Random Forests** - Aplicações para regressão e classificação.
-- 🔹 **Regressão Linear e Logística** - Inferência estatística e previsões de alta acurácia.
-- 🔹 **Combinação de Modelos** - Métodos avançados para ganho de performance.
+- **Árvores de Decisão e Random Forests** - Aplicações para regressão e classificação.
+- **Regressão Linear e Logística** - Inferência estatística e previsões de alta acurácia.
+- **Combinação de Modelos** - Métodos avançados para ganho de performance.
 
 ### 3️⃣ **Clusterização e Análise Não Supervisionada**
 📍 **Objetivo:** Identificação de padrões ocultos em dados não rotulados.
-- 🔹 **K-Means e Algoritmos Hierárquicos** - Segmentação de clientes e perfis de usuários.
-- 🔹 **Análise de Componentes Principais** - Redução de dimensionalidade e visualização de dados complexos.
+- **K-Means e Algoritmos Hierárquicos** - Segmentação de clientes e perfis de usuários.
+- **Análise de Componentes Principais** - Redução de dimensionalidade e visualização de dados complexos.
 
 ### 4️⃣ **Sistemas de Recomendação**
 📍 **Objetivo:** Desenvolvimento de sistemas personalizados para recomendação de produtos, filmes e músicas.
-- 🔹 **Filtragem Colaborativa Baseada em Usuários e Itens**.
-- 🔹 **Modelos de Recomendação Híbridos e Redes Neurais Aplicadas**.
+- **Filtragem Colaborativa Baseada em Usuários e Itens**.
+- **Modelos de Recomendação Híbridos e Redes Neurais Aplicadas**.
 
 ### 5️⃣ **Redes e Modelos Gráficos**
 📍 **Objetivo:** Modelagem de redes complexas para análise de influência e conexões.
-- 🔹 **Grafos e Modelos Probabilísticos** - Aplicações em redes sociais e biológicas.
-- 🔹 **Filtragem de Kalman e Modelos Ocultos de Markov** - Aplicações em séries temporais e previsão de eventos futuros.
+- **Grafos e Modelos Probabilísticos** - Aplicações em redes sociais e biológicas.
+- **Filtragem de Kalman e Modelos Ocultos de Markov** - Aplicações em séries temporais e previsão de eventos futuros.
 
 ### 6️⃣ **Análise de Dados Temporais e Séries Temporais**
 📍 **Objetivo:** Modelagem e previsão de dados temporais em diversos domínios.
-- 🔹 **Deep Feature Synthesis para Séries Temporais**.
-- 🔹 **Modelos Estatísticos e Machine Learning para Previsões de Vendas e Demanda**.
+- **Deep Feature Synthesis para Séries Temporais**.
+- **Modelos Estatísticos e Machine Learning para Previsões de Vendas e Demanda**.
 
 ## 🎯 Estudos de Caso
 Além dos projetos principais, também estou adicionando estudos de caso relevantes:
