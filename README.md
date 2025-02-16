@@ -16,7 +16,10 @@ Estou organizando os projetos ao repositório para facilitar a consulta e contri
 ### 1️⃣ **Análise e Tratamento de Dados**
 📍 **Objetivo:** Processamento e limpeza de grandes volumes de dados para aplicações de Machine Learning.
 - 🔹 **Manipulação Avançada com Pandas** - Estratégias para tratamento de dados ausentes e outliers.
-- 🔹 **Feature Engineering e Carga de Dados** - Construção de variáveis preditivas para modelos de ML.
+- 🔹 **Análise e Transformação de Dados com Pandas e NumPy** -  Projetos com diferentes abordagens para manipulação, transformação e análise de dados usando Pandas, NumPy e APIs
+        - Análise e Transformação de Dados com Pandas e NumPy
+        - Análise de Dados de Vestibular e Vacinação com Pandas
+        - Análise de Solicitações de PVL via API do Tesouro Nacional
 
 ### 2️⃣ **Modelagem Preditiva e Machine Learning**
 📍 **Objetivo:** Construção de modelos robustos para classificação e regressão.
