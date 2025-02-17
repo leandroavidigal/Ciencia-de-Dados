@@ -23,9 +23,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **DecisionTreeClassifier e DecisionTreeRegressor** para construção das árvores
 
 ## 📊 Resultados e Conclusões
-🔹 **O modelo de inadimplência** identificou padrões significativos em variáveis como **posse de veículo** e **tipo de renda**, auxiliando na previsão de clientes de risco.
-🔹 **A árvore de regressão imobiliária** destacou que variáveis como **número médio de quartos por habitação (RM)** e **status socioeconômico da população (LSTAT)** são os principais fatores na definição de preços.
-🔹 **O CCP-alpha pruning** melhorou a generalização dos modelos, reduzindo overfitting e mantendo alta performance nos dados de teste.
+- **O modelo de inadimplência** identificou padrões significativos em variáveis como **posse de veículo** e **tipo de renda**, auxiliando na previsão de clientes de risco.
+- **A árvore de regressão imobiliária** destacou que variáveis como **número médio de quartos por habitação (RM)** e **status socioeconômico da população (LSTAT)** são os principais fatores na definição de preços.
+- **O CCP-alpha pruning** melhorou a generalização dos modelos, reduzindo overfitting e mantendo alta performance nos dados de teste.
 
 🚀 **Bons estudos e boas análises preditivas!**
 
