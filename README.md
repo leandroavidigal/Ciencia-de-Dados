@@ -21,6 +21,7 @@ Estou organizando os projetos ao repositório para facilitar a consulta e contri
 ### 2️⃣ **Modelagem Preditiva e Machine Learning**
 📍 **Objetivo:** Construção de modelos robustos para classificação e regressão.
 - **Modelagem Preditiva com Árvores de Decisão** - Do tratamento de dados à otimização de modelos
+- **Classificação de Atividades Humanas** - Árvores de Desição para classificação
 - **Regressão Linear e Logística** - Inferência estatística e previsões de alta acurácia.
 - **Combinação de Modelos** - Métodos avançados para ganho de performance.
 
