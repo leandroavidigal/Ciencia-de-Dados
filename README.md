@@ -27,7 +27,7 @@ Estou organizando os projetos ao repositório para facilitar a consulta e contri
 
 ### 3️⃣ **Clusterização e Análise Não Supervisionada**
 📍 **Objetivo:** Identificação de padrões ocultos em dados não rotulados.
-- **K-Means e Algoritmos Hierárquicos** - Segmentação de clientes e perfis de usuários.
+- **Clusterização e Segmentação de Usuários** - Análises Preditivas em E-commerce e Comportamento Online.
 - **Análise de Componentes Principais** - Redução de dimensionalidade e visualização de dados complexos.
 
 ### 4️⃣ **Sistemas de Recomendação**
