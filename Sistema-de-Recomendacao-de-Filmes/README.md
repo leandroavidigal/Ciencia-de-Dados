@@ -1,6 +1,5 @@
-**Sistema de Recomendação de Filmes com Machine Learning - Análise do MovieLens**
+## Sistema de Recomendação de Filmes com Machine Learning - Análise do MovieLens
 
-## Sobre o Projeto
 Este projeto implementa e avalia **diferentes modelos de recomendação de filmes** utilizando dados reais do **dataset MovieLens**. O objetivo é identificar padrões de comportamento dos usuários e gerar recomendações personalizadas utilizando técnicas de **Machine Learning**, como **Filtragem Colaborativa, Fatoração de Matrizes (SVD) e Modelos Aleatórios**.
 
 ---
